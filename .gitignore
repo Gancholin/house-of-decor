@@ -1,3 +1,10 @@
+# Site builder library files (keep locally, don't track in repo)
+nicepage.css
+nicepage.js
+jquery.js
+intlTelInput/
+
+# System / editor files
 .DS_Store
-node_modules/
+Thumbs.db
 .vscode/
