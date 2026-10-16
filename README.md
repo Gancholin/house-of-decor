@@ -3,7 +3,7 @@
 A premium interior design company website — elegant, responsive, and built for a real client.
 
 ## 🌐 Live Site
-[View on Netlify](https://houseofdecor.netlify.app/)
+[View on Netlify](https://houseofdecor.co.zw/)
 
 ## 🛠️ Built With
 - HTML5
@@ -22,7 +22,7 @@ Built for **House of Decor**, a premium interior design company.
 Currently hosted on Netlify while the client finalizes their domain and hosting.
 
 ## 📌 Status
-Live demo available. Client hosting pending.
+Live site available. Client hosting.
 
 ## 📫 Contact
 - GitHub: [@Gancholin](https://github.com/Gancholin)
